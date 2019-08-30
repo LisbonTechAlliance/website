@@ -26,7 +26,7 @@
           <h5>{{ nextEventGroup.nextEvent.title }}</h5>
           <strong>{{ eventDate(nextEventGroup.nextEvent.date) }}</strong>
           <span class="btn">
-            Mais info
+            Mais informação
           </span>
         </a>
       </div>

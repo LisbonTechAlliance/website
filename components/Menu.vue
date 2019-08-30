@@ -46,7 +46,7 @@
           href="./#conversation"
           @click="handleMenuLink('#conversation', $event)"
         >
-          Únete a conversa
+          Junta-te à conversa
         </a>
       </li>
 

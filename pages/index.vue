@@ -10,13 +10,14 @@
     />
     <CalendarSection class="page-section red-bg"/>
 
+
     <VigotechDocsSection
       class="page-section"
     />
-    <VideosSection
+    <!-- <VideosSection
       :vigotech-structure="vigotechStructure"
       class="page-section red-bg"
-    />
+    /> -->
 
     <ConversationSection class="page-section"/>
 
@@ -37,7 +38,7 @@
     components: {
       CoverSection,
       VigotechMembersSection,
-      CalendarSection
+      ConversationSection
     },
     data() {
       return {

@@ -10,27 +10,13 @@
             class="section-title"
           >
             <div>
-              Únete a conversa
+              Junta-te à conversa
             </div>
           </h2>
 
           <div class="social">
             <a
-              href="http://twitter.com/vigotechallianc"
-              title="Twitter"
-            >
-              <i class="fa fa-twitter fa-2x" />
-            </a>
-
-            <a
-              href="mailto:alliance@vigotech.org"
-              title="Email alliance@vigotech.org"
-            >
-              <i class="fa fa-envelope-o fa-2x" />
-            </a>
-
-            <a
-              href="https://github.com/VigoTech"
+              href="https://github.com/LisbonTechLeague"
               title="GitHub"
             >
               <i class="fa fa-github fa-2x" />
@@ -40,23 +26,23 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col">
               <div class="section-content section-content-center">
-                <p>Aberto a todo o mundo, é o punto de encontro virtual de todos os grupos e un bo sitio para facer un pouco de networking:</p>
+                <p>Convidamos todos a juntarem-se ao nosso grupo, juntem-se à conversa com as comunidades de</p>
 
                 <p>
-                  <a href="https://vigotechalliance.slack.com">
+                  <a href="https://discord.gg/2xyDrH4">
                     <img
-                      src="slack.png"
-                      alt="Slack"
+                      src="/images/discord.png"
+                      alt="Discord"
                     >
                   </a>
                 </p>
 
                 <p>
                   <a
-                    href="https://slackin-vigotech.herokuapp.com/"
+                    href="https://discord.gg/2xyDrH4"
                     class="btn"
                   >
-                    Consegue unha invitación no teu correo clickando aquí
+                    Pede o teu convite aqui
                   </a>
                 </p>
               </div>
@@ -69,9 +55,9 @@
                 data-width="400"
                 data-border-color="#e84a5f"
                 data-chrome="nofooter"
-                href="https://twitter.com/VigoTechAllianc?ref_src=twsrc%5Etfw"
+                href="https://twitter.com/GDGLisbon/lists/lisbon-tech-communities"
               >
-                Tweets by VigoTech Alliance
+                Tweets das comunidades em Lisboa
               </a>
               <script
                 async

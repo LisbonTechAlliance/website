@@ -6,7 +6,7 @@
     >
       <img
         src="logo.svg"
-        alt="Vigotech Alliance" >
+        alt="Lisbontech Alliance" >
     </a>
     <ul>
       <li>
@@ -22,7 +22,7 @@
           href="./#calendar"
           @click="handleMenuLink('#calendar', $event)"
         >
-          Calendario
+          Calendário
         </a>
       </li>
       <li>

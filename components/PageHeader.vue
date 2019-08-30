@@ -9,8 +9,8 @@
       <div class="col-xs-3">
         <a href="/">
           <img
-            src="logo.png"
-            alt="Vigotech Alliance"
+            src="https://via.placeholder.com/100"
+            alt="LisbonTech"
           >
         </a>
       </div>

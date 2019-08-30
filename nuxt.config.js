@@ -8,7 +8,7 @@ const markdownFiles = markdown.getFiles()
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
     base: '/',
-    baseUrl: 'https://vigotech.org/'
+    baseUrl: 'https://lisbontech.org/'
   }
 } : {
   router: {
@@ -20,17 +20,17 @@ module.exports = {
   ...routerBase,
   mode: 'universal',
   env: {
-    'VIGOTECH_MEMBERS_SOURCE': '/vigotech.json',
-    'VIGOTECH_MEMBERS_SOURCE_FILE': 'static/vigotech.json',
-    'VIGOTECH_MEMBERS_SOURCE_GENERATED': '/vigotech-generated.json',
-    'VIGOTECH_MEMBERS_SOURCE_GENERATED_FILE': 'static/vigotech-generated.json',
+    'LISBONTECH_MEMBERS_SOURCE': '/lisbontech.json',
+    'LISBONTECH_MEMBERS_SOURCE_FILE': 'static/lisbontech.json',
+    'LISBONTECH_MEMBERS_SOURCE_GENERATED': '/lisbontech-generated.json',
+    'LISBONTECH_MEMBERS_SOURCE_GENERATED_FILE': 'static/lisbontech-generated.json',
     'MEETUP_API_BASE': 'http://api.meetup.com'
   },
   /*
   ** Headers of the page
   */
   head: {
-    title: 'VigoTech Alliance',
+    title: 'LisbonTech',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

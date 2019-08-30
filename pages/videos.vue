@@ -60,7 +60,7 @@
 
 <script>
   import PageHeader from '../components/PageHeader'
-  import VigotechStructureStatic from '../static/vigotech-generated'
+  import VigotechStructureStatic from '../static/lisbontech-generated'
   import VigotechVideoPlayer from "../components/VigotechVideoPlayer";
 
   export default {
@@ -106,7 +106,7 @@
     mounted() {
     },
     async asyncData(context) {
-      // let { data } = await context.$axios.get(process.env.VIGOTECH_MEMBERS_SOURCE_GENERATED_FILE)
+      // let { data } = await context.$axios.get(process.env.LISBONTECH_MEMBERS_SOURCE_GENERATED_FILE)
       const data = VigotechStructureStatic
       return {
         vigotechStructure: data

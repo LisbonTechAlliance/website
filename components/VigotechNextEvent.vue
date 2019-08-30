@@ -2,8 +2,8 @@
   <div class="vigotech-next-event">
     <h4>
       <i class="fa fa-calendar" />
-      <span v-if="nextEvents.length == 1">Vindeiro evento</span>
-      <span v-else>Vindeiros eventos</span>
+      <span v-if="nextEvents.length == 1">Próximo evento</span>
+      <span v-else>Próximos eventos</span>
     </h4>
 
     <div
@@ -26,7 +26,7 @@
           <h5>{{ nextEventGroup.nextEvent.title }}</h5>
           <strong>{{ eventDate(nextEventGroup.nextEvent.date) }}</strong>
           <span class="btn">
-            Máis info
+            Mais info
           </span>
         </a>
       </div>

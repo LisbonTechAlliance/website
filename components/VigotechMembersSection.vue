@@ -10,7 +10,7 @@
       class="section-title"
     >
       <div>
-        Os grupos
+        Comunidades
       </div>
     </h2>
     <vigotech-member-list

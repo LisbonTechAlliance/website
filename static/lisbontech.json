@@ -1,0 +1,70 @@
+{
+  "name": "LisbonTech",
+  "logo": "https://via.placeholder.com/150",
+  "sticker": "https://via.placeholder.com/150",
+  "links": {
+    "web": "https://lisbontech.org/",
+    "twitter": "",
+    "mail": "",
+    "github": "https://github.com/LisbonTechLeague/"
+  },
+  "members": {
+    "gdglisbon": {
+      "name": "GDG Lisbon",
+      "logo": "/images/gdglisbon.png",
+      "links": {
+        "web": "https://gdglisbon.xyz/",
+        "twitter": "https://twitter.com/GDGLisbon",
+        "meetup": "https://www.meetup.com/gdglisbon/"
+      },
+      "events": {
+        "type": "meetup",
+        "meetupid": "gdglisbon"
+      },
+      "videos": [
+        {
+          "type": "youtube",
+          "channel_id": "UCy0aTSloAmruyYJHDFqoMfA"
+        }
+      ]
+    },
+    "requirelx": {
+      "name": "Require('lx')",
+      "logo": "/images/requirelx.png",
+      "links": {
+        "twitter": "https://twitter.com/requirelx",
+        "meetup": "https://www.meetup.com/require-lx/",
+        "github": "https://github.com/gdglisbon"
+      },
+      "events": {
+        "type": "meetup",
+        "meetupid": "require-lx"
+      }
+    },
+    "freecodecamplisbon": {
+      "name": "FreeCodeCampLisbon",
+      "logo": "/images/gdglisbon.png",
+      "links": {
+        "web": "http://www.freecodecamplisbon.org/"
+      },
+      "events": {
+        "type": "",
+        "meetupid": ""
+      }
+    },
+    "awslisbon": {
+      "name": "AWS User Group",
+      "logo": "/images/gdglisbon.png",
+      "links": {
+        "web": "https://gdglisbon.xyz/",
+        "twitter": "https://twitter.com/GDGLisbon",
+        "meetup": "https://www.meetup.com/AWS-User-Group-Lisbon/",
+        "github": "https://github.com/gdglisbon"
+      },
+      "events": {
+        "type": "meetup",
+        "meetupid": "AWS-User-Group-Lisbon"
+      }
+    }
+  }
+}

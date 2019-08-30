@@ -4,9 +4,9 @@ const memberEvents = require('./utils/memberEvents')
 const memberVideos = require('./utils/memberVideos')
 const colors = require("colors")
 const fs = require("fs")
-const GENERATED_JSON = 'static/vigotech-generated.json'
+const GENERATED_JSON = 'static/lisbontech-generated.json'
 const Validator = require('jsonschema').Validator;
-const JSON_SCHEMA = 'static/vigotech-schema.json'
+const JSON_SCHEMA = 'static/lisbontech-schema.json'
 
 
 function getNextEvents(membersData) {
@@ -22,7 +22,7 @@ function getNextEvents(membersData) {
 }
 
 function getMembersInfo() {
-  const source = process.env.VIGOTECH_MEMBERS_SOURCE_FILE
+  const source = process.env.LISBONTECH_MEMBERS_SOURCE_FILE
   console.log(`   Getting members json from ${colors.underline(source)}`);
   try {
     const res = fs.readFileSync(source, 'utf8')
@@ -78,12 +78,12 @@ function validateJsonFile(data) {
 }
 
 console.log(
-  `${colors.inverse("Getting vigotech.json file")}`
+  `${colors.inverse("Getting lisbontech.json file")}`
 );
 let data = getMembersInfo()
 
 console.log(
-  `${colors.inverse("Validate vigotech.json file")}`
+  `${colors.inverse("Validate lisbontech.json file")}`
 );
 validateJsonFile(data);
 

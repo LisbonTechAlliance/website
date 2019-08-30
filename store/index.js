@@ -13,7 +13,7 @@ export const mutations = {
 
 export const actions = {
   loadData (store) {
-    this.$axios.get(process.env.VIGOTECH_MEMBERS_SOURCE_GENERATED)
+    this.$axios.get(process.env.LISBONTECH_MEMBERS_SOURCE_GENERATED)
       .then(response => {
         store.commit('loadData', response.data)
       })

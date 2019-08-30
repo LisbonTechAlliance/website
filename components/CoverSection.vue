@@ -4,17 +4,12 @@
       <div class="row">
         <div class="col-xs-12 content-wrapper">
           <div class="content">
-            <img
-              src="logo_white.jpg"
-              alt="Vigo Tech Alliance"
-              class="logo"
-            >
             <h1>
-              Vigo Tech Alliance
+              Lisbon Tech
             </h1>
 
             <h2>
-              Os grupos de tecnoloxía de Vigo facemos piña para promover a tecnoloxía na cidade
+              Comunidades de Lisboa que promovem os mesmos valores de partilha
             </h2>
 
             <no-ssr>

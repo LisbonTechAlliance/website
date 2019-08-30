@@ -10,7 +10,7 @@
             class="section-title"
           >
             <div>
-              Calendario
+              Calendário
             </div>
           </h2>
           <div class="embed-responsive embed-responsive-16by9">
@@ -23,10 +23,10 @@
           </div>
           <span class="view-more">
             <a
-              href="https://calendar.google.com/calendar/ical/orestes.io_fj8ev1vakdnl8l8o6jeljhof1s%40group.calendar.google.com/public/basic.ics"
+              href="https://calendar.google.com/calendar/ical/p8m0490m2ks21caa4uat2jocl8%40group.calendar.google.com/public/basic.ics"
               class="btn btn-white"
             >
-              Preme aquí para acceder no formato iCal
+              Clica aqui para transferir no formato iCal
             </a>
           </span>
         </div>

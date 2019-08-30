@@ -10,12 +10,12 @@
             class="section-title"
           >
             <div>
-              Charlas en video
+              Gravações das palestras
             </div>
           </h2>
 
           <div class="section-content section-content-center">
-            <p>A maioría de charlas está gravadas e dispoñibles para o seu visionado.</p>
+            <p>Gravações disponiveis para ver comfortavelmente onde quiser.</p>
 
             <div class="row">
               <div
@@ -34,7 +34,7 @@
               href="videos"
               class="btn btn-white"
             >
-              Ver máis
+              Ver mais
             </a>
           </div>
         </div>

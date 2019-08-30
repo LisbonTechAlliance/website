@@ -3,11 +3,11 @@
     <nuxt/>
     <Menu />
     <footer id="page-footer">
-      <p>Tema personalizado pola empresa local Opsou.</p>
+      <p>Tema personalizado da empresa Opsou.</p>
       <a
         href="https://vigotech.org"
         class="vigotech-claim vigotech-dark">
-        Feito con <i class="vt-pinecone" /> en <strong>Vigo</strong>
+        Adaptado do tema criado por <i class="vt-pinecone" /> em <strong>Vigo</strong>
       </a>
     </footer>
   </div>

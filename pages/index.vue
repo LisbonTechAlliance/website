@@ -30,14 +30,11 @@
   import CalendarSection from '../components/CalendarSection'
   import ConversationSection from '../components/ConversationSection'
   import VideosSection from '../components/VideosSection'
-  import VigotechStructureStatic from '../static/vigotech'
+  import VigotechStructureStatic from '../static/lisbontech'
   import VigotechDocsSection from '../components/VigotechDocsSection'
 
   export default {
     components: {
-      VigotechDocsSection,
-      VideosSection,
-      ConversationSection,
       CoverSection,
       VigotechMembersSection,
       CalendarSection

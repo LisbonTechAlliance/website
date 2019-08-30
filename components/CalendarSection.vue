@@ -23,7 +23,7 @@
           </div>
           <span class="view-more">
             <a
-              href="https://calendar.google.com/calendar/ical/p8m0490m2ks21caa4uat2jocl8%40group.calendar.google.com/public/basic.ics"
+              href="https://calendar.google.com/calendar/ical/qoogoo0gqihr5nna1c9got83f8%40group.calendar.google.com/public/basic.ics"
               class="btn btn-white"
             >
               Clica aqui para transferir no formato iCal

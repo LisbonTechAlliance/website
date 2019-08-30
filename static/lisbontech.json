@@ -1,7 +1,7 @@
 {
-  "name": "LisbonTech",
-  "logo": "https://via.placeholder.com/150",
-  "sticker": "https://via.placeholder.com/150",
+  "name": "Lisbon Tech Alliance",
+  "logo": "/images/lisbontechalliance.png",
+  "sticker": "/images/lta_sticker.jpg",
   "links": {
     "web": "https://lisbontech.org/",
     "twitter": "",
@@ -20,13 +20,7 @@
       "events": {
         "type": "meetup",
         "meetupid": "gdglisbon"
-      },
-      "videos": [
-        {
-          "type": "youtube",
-          "channel_id": "UCy0aTSloAmruyYJHDFqoMfA"
-        }
-      ]
+      }
     },
     "requirelx": {
       "name": "Require('lx')",
@@ -41,20 +35,34 @@
         "meetupid": "require-lx"
       }
     },
-    "freecodecamplisbon": {
-      "name": "FreeCodeCampLisbon",
-      "logo": "/images/gdglisbon.png",
+    "barcamp": {
+      "name": "BarCampLx",
+      "logo": "/images/barcamplx.png",
       "links": {
-        "web": "http://www.freecodecamplisbon.org/"
+        "twitter": "https://twitter.com/BarcampLx",
+        "meetup":"https://www.meetup.com/barcamplx/"
       },
       "events": {
-        "type": "",
-        "meetupid": ""
+        "type": "meetup",
+        "meetupid": "barcamplx"
+      }
+    },
+    "freecodecamplisbon": {
+      "name": "FreeCodeCampLisbon",
+      "logo": "/images/fcc.png",
+      "links": {
+        "web": "http://www.freecodecamplisbon.org/",
+        "meetup":"https://www.meetup.com/freeCodeCamp-Lisbon/"
+
+      },
+      "events": {
+        "type": "meetup",
+        "meetupid": "freeCodeCamp-Lisbon"
       }
     },
     "awslisbon": {
       "name": "AWS User Group",
-      "logo": "/images/gdglisbon.png",
+      "logo": "/images/awslisbon.png",
       "links": {
         "web": "https://gdglisbon.xyz/",
         "twitter": "https://twitter.com/GDGLisbon",
